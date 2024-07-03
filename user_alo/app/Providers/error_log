@@ -1,0 +1,4 @@
+[16-Apr-2024 10:19:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\RouteServiceProvider" not found in /home/asharal1/public_html/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/asharal1/public_html/app/Providers/RouteServiceProvider.php on line 11

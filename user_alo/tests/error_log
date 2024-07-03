@@ -1,0 +1,4 @@
+[04-Apr-2024 22:42:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/asharal1/public_html/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/asharal1/public_html/tests/TestCase.php on line 7

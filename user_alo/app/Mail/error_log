@@ -1,0 +1,4 @@
+[16-Apr-2024 10:19:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Mail\Mailable" not found in /home/asharal1/public_html/app/Mail/AdminMail.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/asharal1/public_html/app/Mail/AdminMail.php on line 12
